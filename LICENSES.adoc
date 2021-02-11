@@ -1,5 +1,7 @@
 = rain Digital Licenses
-===== '*' stands for individual characters whereby '++' stands for an individual string
 
 - UZ**
 - RLIC-++
+
+
+===== '*' stands for individual characters whereby '++' stands for an individual string
