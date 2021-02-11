@@ -6,3 +6,12 @@ There are different organization types in the rainyLaws, here's a list of them:
 - SE (Sub-Executive)
 - SP. (Software Producer)
 - _... (to be continued)_
+
+== Crime definitions
+=== Fraud
+- Class 1: '_..._'
+- Class 2: '_..._'
+
+== Scam
+- Class 1: '_..._'
+- Class 2: '_..._'
